@@ -46,3 +46,4 @@ Los eventos definen los estímulos externos, temporales o de estado que activan 
 | **EV-11** | Cumplimiento de 90–180 días desde el cierre del ticket | Temporal | Reloj del Sistema (Cron) | 7.3, 6.2 | Purga automática de archivos pesados en Cloudflare R2 conservando bitácora de texto. |
 
 ### 1.4.2 Diagrama de Eventos del Sistema
+(aqui va el diagrama)
